@@ -1,4 +1,4 @@
-# JavaScript---Animation-Template
+# JavaScript - Animation Physics Playgrounds
 
 -- 'training wheel' code collection for making animation and game physics on JavaScript --
 
