@@ -37,3 +37,14 @@ was a proud moment of success, a moment i suggest experiencing.
   line which the diplayed value rests on - while reading on x-axis: the x value matches the square 
   space count, either way, you can use the mouse tracket to corroborate graphed x,y values)
  
+ // mouse tracker
+var mouse_tracker = function() {
+    var x = mouseX - 20;
+    var label = mouseX + '/' + mouseY;
+    fill(0, 255, 17);
+    if (mouseX < 315) {
+        text(label, mouseX + 15, mouseY + 15);
+    } else {
+        text(label, mouseX - 50, mouseY - 10);
+    }
+};
