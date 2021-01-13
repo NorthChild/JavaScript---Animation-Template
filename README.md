@@ -30,3 +30,5 @@ P.S all playgrounds come with a graphed environment, i left it in since it provi
 x and y values, and a mouse tracker, useful to have a real-time idea of where your mouse is pointing 
 if you're interested in the graphs all by themselves, theres my other repo (JavaScript-Graphed_Backgrounds)
 with more than one choice in graph/lined paper backgrounds.
+
+# needs to be updated to work with ES6
