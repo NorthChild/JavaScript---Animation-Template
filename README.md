@@ -31,4 +31,4 @@ x and y values, and a mouse tracker, useful to have a real-time idea of where yo
 if you're interested in the graphs all by themselves, theres my other repo (JavaScript-Graphed_Backgrounds)
 with more than one choice in graph/lined paper backgrounds.
 
-# needs to be updated to work with ES6
+# needs to be updated to be fully compatible with Javascript ES6
